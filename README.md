@@ -6,7 +6,7 @@ My past professional experiences working in financial services with teams spread
 
 - 📍 Currently based in Yorba Linda, CA
 - 🌱 Looking for opportunities to continue learning and growing as a full stack software engineer
-- 💬 Reach out if you would like to discuss technology, financial services, web design, and NBA trivia
+- 💬 Reach out if you would like to discuss technology, financial services, web design, and NBA basketball
 <!---
 austintkim/austintkim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
